@@ -1,2 +1,2 @@
 # OverlayFS
-SSD Advisory for the given CTF okiiiee
+SSD Advisory for the given CTF
